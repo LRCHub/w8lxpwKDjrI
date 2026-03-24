@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lottery",
+  "base_artist": "Latto",
+  "createdAt": "2026-03-24T22:14:27.040026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lottery (feat. Aja)",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/01_Lottery_(feat._Aja)_Liz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lottery (Renegade)",
+      "artist": "K CAMP",
+      "has_synced": true,
+      "path": "select/02_Lottery_(Renegade)_K_CAMP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lottery (Renegade) (Bonus Track)",
+      "artist": "K Camp",
+      "has_synced": true,
+      "path": "select/03_Lottery_(Renegade)_(Bonus_Track)_K_Camp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Lottery",
+      "artist": "Emily Haines",
+      "has_synced": true,
+      "path": "select/04_The_Lottery_Emily_Haines.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Lottery",
+      "artist": "Emily Haines & The Soft Skeleton",
+      "has_synced": false,
+      "path": "select/05_The_Lottery_Emily_Haines_&_The_Soft_Skeleton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lottery Noises",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/06_Lottery_Noises_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Lottery Song",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/07_The_Lottery_Song_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Lottery Song",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/08_The_Lottery_Song_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lottery",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/09_Lottery_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Lottery",
+      "artist": "The Used feat. Caleb Shomo",
+      "has_synced": true,
+      "path": "select/10_The_Lottery_The_Used_feat._Caleb_Shomo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Lottery",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/11_The_Lottery_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Lottery",
+      "artist": "The Afghan Whigs",
+      "has_synced": true,
+      "path": "select/12_The_Lottery_The_Afghan_Whigs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lottery Reptiles",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/13_Lottery_Reptiles_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOTTERY",
+      "artist": "NGM",
+      "has_synced": true,
+      "path": "select/14_LOTTERY_NGM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lottery",
+      "artist": "Kali Uchis",
+      "has_synced": true,
+      "path": "select/15_Lottery_Kali_Uchis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Lottery Song - Bonus Track",
+      "artist": "The Format",
+      "has_synced": true,
+      "path": "select/16_The_Lottery_Song_-_Bonus_Track_The_Format.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Lottery Song (Bonus Track)",
+      "artist": "The Format",
+      "has_synced": true,
+      "path": "select/17_The_Lottery_Song_(Bonus_Track)_The_Format.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lottery Ticket",
+      "artist": "Andrew McMahon In the Wilderness",
+      "has_synced": true,
+      "path": "select/18_Lottery_Ticket_Andrew_McMahon_In_the_Wilderness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lottery",
+      "artist": "Latto & LU KALA",
+      "has_synced": false,
+      "path": "select/pl_01_Lottery_Latto_&_LU_KALA.txt"
+    }
+  ]
+}
